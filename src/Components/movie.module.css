@@ -1,0 +1,22 @@
+.movie {
+  font-family: monospace;
+  background-color: #eee;
+  min-width: 40%;
+  max-width: 45%;
+  border: 1px solid #777;
+  box-shadow: 0 5px 20px rgb(97, 95, 95);
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.image {
+  padding: 20px 0;
+}
+
+.paragraph {
+  padding: 0 20px;
+  text-align: justify;
+}
